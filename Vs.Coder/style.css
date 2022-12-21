@@ -1,0 +1,399 @@
+
+.Puan-Durumu{
+    width: 1130px;
+    height: 50px;
+    font-size: 35px;
+    background-color: blue;
+    margin: 30px;
+    margin-left: -15px;
+    margin-left: 5px;
+    padding: 15px;
+    color: azure;
+    font-weight: bold;
+}     
+.premier-lig{
+    width: 800px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: -15px;
+    margin-left: 5px;
+    padding: 15px;
+    color: azure;
+    font-weight: bold;
+}
+.PD{
+    margin-bottom: 30px;
+}
+.asd{
+    width: 827px;
+    height: 50px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px black solid;
+}
+.asdBtn{
+cursor: pointer;
+border: none;
+color: blue;
+}
+.cedvel{
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+.fclubs{
+    width: 800px;
+}
+.fc{
+    text-decoration: none;
+    color: black;  
+    font-size: 25px;   
+}
+.fc:hover{
+    color: blue;
+}
+.fcDiv{
+    margin-bottom: 20px;
+     display: flex;
+    /* justify-content: space-around; */
+}
+.tablo{
+    display: flex;
+    justify-content: space-around;
+    width:600px
+}
+.adlogo{
+    width: 200px;
+}
+.sqimg{
+    width: 30px;
+}
+.fikstur{
+   display: none;
+    width: 800px;
+    height: 600px;
+    border: 1px black solid;
+    font-size: 30px;
+}
+.tarix{
+    padding-top:20px ;
+    padding-left: 20px;
+}
+.saat{
+    border: 1px black solid;
+}
+.f-1{
+    margin-top: 20px;
+    display: flex;
+}
+.f-1saat{
+    margin-right: 200px;
+}
+
+.istatistik{
+    width: 800px;
+    height: 1350px;
+    border: 1px black solid;
+    display: none;
+}
+.is{
+    height: 35px;
+    width: 775px;
+    background-color: #0D4270;
+    padding: 10px;
+    color: aliceblue;
+    margin-left: 5px;
+}
+.mac-sc{
+ display: flex;
+ justify-content: space-between;
+ padding: 10px;
+}
+.faiz1{
+    width: 320px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz2{
+    width: 190px;
+    height: 15px;
+    background-color:aqua;
+}
+.faiz3{
+    width: 280px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.faiz-1{
+    width: 420px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-2{
+    width: 380px;
+    height: 15px;
+    background-color:aqua;
+    margin-bottom: 20px;
+}
+.faiz4{
+    width: 260px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz5{
+    width: 380px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz6{
+    width: 245px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.faiz-qol1{
+    width: 270px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qol2{
+    width: 320px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qol3{
+    width: 200px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qol4{
+    width: 24px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.faiz-qoldaq1{
+    width: 90px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qoldaq2{
+    width: 80px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qoldaq3{
+    width: 150px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qoldaq4{
+    width: 150px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qoldaq5{
+    width: 155px;
+    height: 15px;
+    background-color: aqua;
+}
+.faiz-qoldaq6{
+    width: 185px;
+    height: 15px;
+    background-color: aqua;
+}
+
+.tarihce{
+    display: none;
+    width: 800px;
+    height: 1000px;
+}
+.biril-ucun{
+   display: flex;
+   width: 800px;
+    height: 100px;
+    border: 1px black solid;
+}
+.il{
+  display: block;        
+  width: 60px;
+  height: 60px;
+  border: 1px black solid;
+  font-size: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.yer{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.df{
+display: flex;
+justify-content: space-evenly;
+}
+.c-club{
+width: 600px;
+height: 50px;
+}
+.linkT{
+text-decoration: none;
+color: black;
+font-size: 20px;
+}
+.linkT:hover{
+color: blue;
+}
+.container{
+    border: 1px black solid;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    left: 860px;
+    top: 140px;
+}
+.btn1, .btn2{
+    width: 40px;
+    height: 20px;
+}
+.i1{
+    display: none;
+}
+.Qarabag{
+    display: block;
+}
+.sezon{
+width: 800px;
+height: 50px;
+border: 1px black solid;
+margin-bottom: 20px;
+display: flex;
+justify-content: space-between;
+}
+.soz{
+ margin-top: 15px;
+ font-size: 20px;
+ font-weight: bold;
+}
+select{
+    display: block;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.s21-22{
+    display: none;
+}
+.s21-22-faiz1{
+    width: 325px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz2{
+    width: 185px;
+    height: 15px;
+    background-color:aqua;
+}
+.s21-22-faiz3{
+    width: 290px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.s21-22-faiz-1{
+    width: 410px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-2{
+    width: 390px;
+    height: 15px;
+    background-color:aqua;
+    margin-bottom: 20px;
+}
+.s21-22-faiz4{
+    width: 245px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz5{
+    width: 320px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz6{
+    width: 235px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.s21-22-faiz-qol1{
+    width: 195px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qol2{
+    width: 410px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qol3{
+    width: 190px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qol4{
+    width: 5px;
+    height: 15px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.s21-22-faiz-qoldaq1{
+    width: 80px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qoldaq2{
+    width: 100px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qoldaq3{
+    width: 170px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qoldaq4{
+    width: 105px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qoldaq5{
+    width: 120px;
+    height: 15px;
+    background-color: aqua;
+}
+.s21-22-faiz-qoldaq6{
+    width: 210px;
+    height: 15px;
+    background-color: aqua;
+}
+
+.s21-22-tarihce{
+    display: none;
+    width: 800px;
+    height: 1000px;
+}
